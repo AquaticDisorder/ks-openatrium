@@ -7,7 +7,7 @@ version = "7.x-2.04"
 
 base[] = panopoly
 
-files[] = openatrium.profile
+files[] = ks-openatrium.profile
 
 ; Drupal Core
 dependencies[] = menu
